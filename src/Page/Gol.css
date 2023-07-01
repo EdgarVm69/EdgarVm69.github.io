@@ -1,0 +1,141 @@
+.e1_11 { 
+	overflow:hidden;
+}
+.e1_11 { 
+	background-image:linear-gradient(0deg, rgba(20.000000707805157, 2.000000118277967, 121.00000038743019, 1) 0%,rgba(80.00000283122063, 0, 113.00000086426735, 1) 32.8125%,rgba(14.000000115484, 0, 13.000000175088644, 1) 100%) ;
+	width:1481px;
+	height:1024px;
+	position:absolute;
+}
+.e3_24 { 
+	background-color:rgba(1.0000000591389835, 0, 16.000000946223736, 1);
+	width:539px;
+	height:1024px;
+	position:absolute;
+	left:2px;
+	top:3px;
+}
+.e3_26 { 
+	color:rgba(247.7449733018875, 142.65876978635788, 19.296704046428204, 1);
+	width:470px;
+	height:184px;
+	position:absolute;
+	left:36px;
+	top:74px;
+	font-family:Inter;
+	text-align:center;
+	font-size:120px;
+	letter-spacing:0;
+}
+.e3_28 { 
+	width:398px;
+	height:377px;
+	position:absolute;
+	left:72px;
+	top:229px;
+	background-image:url(images/image_3.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e3_30 { 
+	color:rgba(255, 255, 255, 1);
+	width:389px;
+	height:46px;
+	position:absolute;
+	left:75px;
+	top:606px;
+	font-family:Inter;
+	text-align:center;
+	font-size:30px;
+	letter-spacing:0;
+}
+.e3_31 { 
+	color:rgba(255, 255, 255, 1);
+	width:438px;
+	height:196px;
+	position:absolute;
+	left:32px;
+	top:738px;
+	font-family:Inter;
+	text-align:center;
+	font-size:40px;
+	letter-spacing:0;
+}
+.e3_32 { 
+	color:rgba(227.8865548968315, 190.5117604136467, 94.40512105822563, 1);
+	width:558px;
+	height:165px;
+	position:absolute;
+	left:571px;
+	top:93px;
+	font-family:Inter;
+	text-align:left;
+	font-size:40px;
+	letter-spacing:0;
+}
+.e3_40 { 
+	color:rgba(0, 0, 0, 1);
+	width:342px;
+	height:100px;
+	position:absolute;
+	left:741px;
+	top:903px;
+	font-family:Inter;
+	text-align:center;
+	font-size:60px;
+	letter-spacing:0;
+}
+.e3_38 { 
+	border:1px solid rgba(255, 255, 255, 1);
+}
+.e3_38 { 
+	width:327px;
+	height:400px;
+	position:absolute;
+	left:741px;
+	top:397px;
+	background-image:url(images/image_4.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+    border-color: transparent;
+}
+.button {
+    display: inline-block;
+    border-radius: 4px;
+    background-color: #3d405b;
+    border: none;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 17px;
+    padding: 16px;
+    width: 130px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 5px;
+    left: 845px;
+   }
+   
+.buttonbutton span {
+    cursor: pointer;
+    display: inline-block;
+    position: absolute;
+    transition: 0.5s;
+   }
+   
+.button span:after {
+    content: '»';
+    position: absolute;
+    opacity: 0;
+    top: 0;
+    right: -15px;
+    transition: 0.5s;
+   }
+   
+.button:hover span {
+    padding-right: 15px;
+   }
+   
+.button:hover span:after {
+    opacity: 1;
+    right: 0;
+   }
